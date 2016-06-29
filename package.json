@@ -1,6 +1,6 @@
 {
   "name": "smart-foreground",
-  "description": "Get a good foreground color based on a backgorund color.",
+  "description": "Calculate matching foreground colors based on backgorund colors.",
   "keywords": [
     "smart",
     "foreground",
@@ -38,6 +38,10 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/smart-foreground/issues"
+  },
+  "blah": {
+    "h_img": "http://i.imgur.com/qSwot88.png",
+    "ex_img": "http://i.imgur.com/2nx2Q0z.png"
   },
   "homepage": "https://github.com/IonicaBizau/smart-foreground#readme",
   "dependencies": {
