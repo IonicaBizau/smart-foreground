@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Get a good foreground color based on a backgorund color.
 
 #### Params
+
 - **String** `bgColor`: The backgorund color (supports hex, rgb etc).
 - **Array** `fgColors`: An optional array of *ordered* foreground color codes (default: `[black, white]`). The lighter colors should be the first ones.
 
